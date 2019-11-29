@@ -12,3 +12,5 @@
 (
 Sine.ar;
 )
+
+postln("WOOOOO");
